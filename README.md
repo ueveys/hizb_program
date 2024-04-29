@@ -1,5 +1,5 @@
 # hizb_program
-TR: Bu programm ile bir akadas toplulugu organize olup hep beraber bir hizb okuma zinciri olusturabilir. Bilindigi üzere Kuran 30 cüzden mütesekkil ve her cüz 4 hizb den meydana gelmekte ve her hizb yaklasik 5 sayfadir. Prenzip söyle, herkes hergün bir hizb okuyacak. grupta okumaya baslayan her kisi belli bir hizb numarasi ile baslayip günde bir hizb okuyarak, toplu halde kuran okuma sevabina nail olacak insaallah.
+TR: Bu programm ile bir arkadas toplulugu organize olup hep beraber bir hizb okuma zinciri olusturabilir. Bilindigi üzere Kuran 30 cüzden mütesekkil ve her cüz 4 hizb den meydana gelmekte ve her hizb yaklasik 5 sayfadir. Prenzip söyle, herkes hergün bir hizb okuyacak. grupta okumaya baslayan her kisi belli bir hizb numarasi ile baslayip günde bir hizb okuyarak, toplu halde kuran okuma sevabina nail olacak insaallah.
 
 DE: Mit diesem Programm können wir eine Gemeinschaft von Freunden organisieren und gemeinsam eine Lesekette bilden. Das Prinzip ist folgendes: Jeder liest jeden Tag einen Abschnitt spricht ein Hizb in einem Cüz. Kuran besteht ja aus cüz (30 Stück) jede cüz hat 4 hizb, dies entspricht circa 5 Seiten. Jede Person in der Gruppe beginnt mit einer bestimmten Hizb nummer und liest jeden Tag einen Hizb, um gemeinsam die Segnungen des gemeinsamen Lesens des Korans zu erlangen, insallah.
 
