@@ -87,7 +87,7 @@ def save_to_excel(schedule, people_names):
         ws.append(row)
     
     current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    filename = f'reading_schedule_{current_time}.xlsx'
+    filename = f'KURAN_reading_schedule_{current_time}.xlsx'
     wb.save(filename)
 
 # Beispiel Einstellungen
