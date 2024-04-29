@@ -91,8 +91,11 @@ def save_to_excel(schedule, people_names):
     wb.save(filename)
 
 # Beispiel Einstellungen
+# baslama tarihi
 start_date = datetime(2024, 4, 29)
+# bitis tarihi
 end_date = datetime(2025, 2, 28)
+# kisilerin isimleri
 people_names = ['personA', 'personB', 'personC']
 
 schedule = generate_schedule(start_date, end_date, people_names)
